@@ -1,0 +1,5 @@
+@keyframes offset{
+	100%{
+		stroke-dashoffset:0;
+	}
+}
